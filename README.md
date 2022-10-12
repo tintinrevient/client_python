@@ -46,8 +46,8 @@ other information about the process for free!
 
 ## Example
 
-1. Run `prometheus` and `grafana` servers, following [this guide](https://github.com/tintinrevient/PostgreSQL#postgres-exporter--prometheus--grafana).
-2. Run the example in the [example](example) folder by `python example.py`.
+1. Run the example in the [example](example) folder by `python example.py`.
+2. Run `prometheus` and `grafana` servers, following [this guide](https://github.com/tintinrevient/PostgreSQL#postgres-exporter--prometheus--grafana).
 3. Configure the grafana dashboard with [this template](example/grafana_dashboard/passed_vs_failed.json), and the following will show:
 <p float="left">
   <img src="pix/example.png" width="800" />
