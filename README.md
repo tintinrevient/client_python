@@ -634,3 +634,5 @@ for family in text_string_to_metric_families(u"my_gauge 1.0\n"):
 ## References
 
 * https://play.grafana.org/d/U_bZIMRMk/table-panel-showcase?orgId=1
+* https://docs.gitlab.com/ee/ci/yaml/artifacts_reports.html
+* https://github.com/prometheus/pushgateway
